@@ -10,7 +10,7 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.callapircv.R;
-import com.example.callapircv.User;
+import com.example.callapircv.model.User;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.example.callapircv;
+package com.example.callapircv.model;
 
 public class User {
     private int id;
